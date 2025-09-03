@@ -1,0 +1,8 @@
+[core]
+    remote = s3-cache
+['remote "s3-cache"']
+    url = s3://data-cache
+    endpointurl = https://minio-api-nine-thousand-pipelines.apps.cluster-s7qkg.s7qkg.sandbox2372.opentlc.com
+['remote "data-source"']
+    url = s3://data
+    endpointurl = https://minio-api-nine-thousand-pipelines.apps.cluster-s7qkg.s7qkg.sandbox2372.opentlc.com
