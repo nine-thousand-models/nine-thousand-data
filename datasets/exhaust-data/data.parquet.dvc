@@ -1,12 +1,12 @@
-md5: 8c6ca03a6eab67d6bd1769709ed2fa8a
+md5: 310290ecf4e1770489b709cbc4c2416b
 frozen: true
 deps:
-- etag: df04f2cf9d1d1c7675e1619ec30ec83b
-  size: 18153893
+- etag: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
   hash: md5
   path: remote://data-source/exhaust-data/data.parquet
 outs:
-- md5: df04f2cf9d1d1c7675e1619ec30ec83b
-  size: 18153893
+- md5: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
   hash: md5
   path: data.parquet
