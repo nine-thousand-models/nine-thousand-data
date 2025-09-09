@@ -10,8 +10,8 @@ This repository manages versioned datasets for the nine-thousand models ecosyste
 
 ```
 datasets/
-├── exhaust-data/
-│   └── data.parquet.dvc    # DVC-tracked dataset for exhaust predictions
+├── demand-forecaster-data/
+│   └── data.parquet.dvc    # DVC-tracked dataset for demand-forecaster predictions
 └── [future datasets]       # Additional component datasets
 ```
 
