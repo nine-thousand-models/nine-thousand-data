@@ -1,0 +1,12 @@
+md5: dd326b0a4077e313d646694b13684ead
+frozen: true
+deps:
+- etag: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
+  hash: md5
+  path: remote://data-source/fraud-detector/data.parquet
+outs:
+- md5: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
+  hash: md5
+  path: data.parquet
