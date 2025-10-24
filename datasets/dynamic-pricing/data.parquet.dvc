@@ -1,0 +1,12 @@
+md5: f1de55bc26cbb2eb59a9b40fc53a6a4e
+frozen: true
+deps:
+- etag: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
+  hash: md5
+  path: remote://data-source/dynamic-pricing/data.parquet
+outs:
+- md5: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
+  hash: md5
+  path: data.parquet
