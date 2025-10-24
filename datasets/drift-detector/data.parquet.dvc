@@ -1,0 +1,12 @@
+md5: f57880113027e5a42d790f21f34a1dc3
+frozen: true
+deps:
+- etag: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
+  hash: md5
+  path: remote://data-source/drift-detector/data.parquet
+outs:
+- md5: 5c2145f3f900c69fb20c0af2657b7876
+  size: 503154
+  hash: md5
+  path: data.parquet
